@@ -1,0 +1,14 @@
+{
+  "name": "pinterest",
+  "version": "0.0.1",
+  "description": "Réplica de Pinterest",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "pinterest"
+  ],
+  "author": "Tamara",
+  "license": "ISC"
+}
